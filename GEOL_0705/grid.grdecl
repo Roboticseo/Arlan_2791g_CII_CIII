@@ -1,0 +1,24 @@
+
+INCLUDE
+ 'GEOL_0705/export_07.05.coord.inc'
+  /
+
+ INCLUDE
+ 'GEOL_0705/export_07.05.zcorn.inc'
+  /
+
+--INCLUDE
+--export_0705.actnum.inc
+  /
+
+INCLUDE
+'GEOL_0705/export_07.05.ntg.inc'
+  /
+
+INCLUDE
+'GEOL_0705/export_07.05.poro.inc'
+  /
+
+INCLUDE
+'GEOL_0705/export_07.05.permx.inc'
+  /
